@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\obj\Debug\net8.0\Nezeride task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\obj\Debug\net8.0\Nezeride task.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\obj\Debug\net8.0\Nezeride task.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\obj\Debug\net8.0\Nezeride task.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\obj\Debug\net8.0\Nezeride task.sourcelink.json
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\bin\Debug\net8.0\Nezeride task.exe
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\bin\Debug\net8.0\Nezeride task.deps.json
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\bin\Debug\net8.0\Nezeride task.runtimeconfig.json
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\bin\Debug\net8.0\Nezeride task.dll
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\bin\Debug\net8.0\Nezeride task.pdb
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\obj\Debug\net8.0\Nezeride task.dll
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\obj\Debug\net8.0\refint\Nezeride task.dll
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\obj\Debug\net8.0\Nezeride task.pdb
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\obj\Debug\net8.0\Nezeride task.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\Huseyn vs codes\Nezeride task\Nezeride task\obj\Debug\net8.0\ref\Nezeride task.dll
