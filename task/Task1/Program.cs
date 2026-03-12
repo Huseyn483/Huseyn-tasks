@@ -1,6 +1,6 @@
 ﻿namespace Task1;
 
-/*public class HelloWorld
+/*internal class Program
 {
 	public static void Main(string[] args)
 	{
@@ -37,7 +37,7 @@
 */
 
 /*
-public class HelloWorld
+internal class Program
 {
 	public static void Main(string[] args)
 	{
